@@ -1,0 +1,6 @@
+Make a bash script that will delete all files and folder that are x days old 
+
+1 location?
+2 list all files and directories that are older then x days
+3 delete all files and directories that are older then x days in the current directory 
+4 prompt for ok before deleting all 
