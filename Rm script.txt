@@ -1,0 +1,11 @@
+#!/bin/bash
+
+pwd
+ls -ltra 
+find . -mtime +1 -type f
+find . -type f
+rm -i kofil
+rm -i Clean
+rm -biglist1 
+
+ls -ltra
